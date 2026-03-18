@@ -1,0 +1,10 @@
+# Python Virtual Environment
+.venv/
+__pycache__/
+
+# Datasets and Images (Don't upload 8,000 images to GitHub!)
+dungeon_images_colour80/
+*.png
+*.jpg
+
+dungeon_images_colour80.zip
